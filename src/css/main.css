@@ -1,1 +1,9 @@
-/* add custom styles */
+.editBox {
+  margin: 20px auto;
+  border: 1px solid black;
+}
+
+.editActive {
+  margin: 20px auto;
+  border: 2px solid red;
+}
